@@ -1,0 +1,36 @@
+{
+  "foods": [
+    {
+      "id": 1,
+      "name": "Bolonhesa",
+      "description": "Macarrão ao molho bolonhesa tradicional",
+      "price": "19.99",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+    },
+    {
+      "id": 2,
+      "name": "Veggie",
+      "description": "Macarrão vegano",
+      "price": "23.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "id": 3,
+      "name": "Moda Italiana",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares",
+      "price": "25.90",
+      "available": true,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOled1R32RwC1bCUofkg1mdjUEY1LFkIIW-g&usqp=CAU",
+      "name": "Moda Italiana",
+      "price": "19.90",
+      "description": "Grande macarrão com molho a moda italiana",
+      "available": true,
+      "id": 4
+    }
+  ]
+}
